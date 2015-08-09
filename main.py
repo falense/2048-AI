@@ -160,7 +160,7 @@ def print_readable(scores):
         print 2**(key+1), ":", value
         
 if __name__=="__main__":
-    g =  None# GUI()
+    g =  GUI()
     #w = World()
     #for i in xrange(4):
         #for j in xrange(4):
